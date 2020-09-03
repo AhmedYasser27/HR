@@ -1,1 +1,1 @@
-# HR
+#Django HR Mangement System
